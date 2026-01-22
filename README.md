@@ -1,4 +1,4 @@
-# VR_Digimon_Raise
+# (VR)Digimon
 
 ## 프로젝트 소개
 가상 현실에서 디지몬을 키우고 상호작용하는 시뮬레이션
