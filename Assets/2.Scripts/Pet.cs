@@ -113,7 +113,7 @@ public abstract class Pet : MonoBehaviour
         }
     }
 
-    // 수면 상태로의 전환을 처리하는 메서드
+    // 수면 상태로 전환하는 함수
     public virtual void Sleep()
     {
         anim.SetTrigger("Sleep"); // 수면 애니메이션 실행
