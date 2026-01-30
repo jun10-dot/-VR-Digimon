@@ -13,8 +13,10 @@
 - Terrain Tool로 맵 제작
 
 ## 담당 스크립트
-- Agumon.cs
-- AgumonChangeMat.cs
-- Koromon.cs
-- KoromonChangeMat.cs
-- Pet.cs
+<ul style="list-style-type: disc; margin-left: 20px;">
+   <li><a href="./Assets/2.Scripts/Pet.cs">Pet.cs</a></li>
+   <li><a href="./Assets/2.Scripts/Agumon.cs">Agumon.cs</a></li>
+   <li><a href="./Assets/2.Scripts/AgumonChangeMat.cs">AgumonChangeMat.cs</a></li>
+   <li><a href="./Assets/2.Scripts/Koromon.cs">Koromon.cs</a></li>
+   <li><a href="./Assets/2.Scripts/KoromonChangeMat.cs">KoromonChangeMat.cs</a></li>
+</ul>
