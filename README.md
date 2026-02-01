@@ -1,5 +1,7 @@
 # (VR)Digimon
 
+[프로젝트 상세 설명 (Notion)](https://www.notion.so/VR-Digimon-2edbe5889bd780a5b1f5ebd89659a1e0)
+
 ## 프로젝트 소개
 가상 현실에서 디지몬을 키우고 상호작용하는 시뮬레이션
 
